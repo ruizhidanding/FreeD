@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/%E5%8C%97%E4%BA%AC4K%E8%B6%85%E6%B8%85IPTV.png" group-title="数字",北京IPTV 4K超清
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="数字",北京IPTV 淘剧场
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/%E5%8C%97%E4%BA%AC%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="数字",北京IPTV 淘电影
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/ruizhidanding/photo/raw/main/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98BABY.png" group-title="数字",北京IPTV 淘BABY
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="欢笑剧场4k" tvg-logo="https://gitee.com/radioer/photo/raw/main/%E4%B8%8A%E6%B5%B7%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="数字",欢笑剧场4k
+http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC动作电影
+http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC高清电影
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/radioer/photo/raw/main/CHC高清电影.png" group-title="数字",CHC家庭影院
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV魅力潇湘" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV%E9%AD%85%E5%8A%9B%E6%BD%87%E6%B9%98.png" group-title="数字",NewTV魅力潇湘
+http://[2409:8087:580:1021:1401::17]:6610/000000001000/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=&version=1.0&owaccmark=1000000001000006197&owchid=ystenlive&owsid=1942641575625015514&AuthInfo=zmDeINsczUw%2BXOm6icTIplPJYM0PdJZ7nyJeCqAhmgAYa6EjOj5lVIEzLgj21mzdgHJlJumqlbWKVNJ9%2BPr6hBIBCAYmdTu9D4%2BH7FyGxQ6VNpuRz3ADKjymvteRJhZt&IASHttpSessionId=RR771920191206093644207745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/NewTV%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png" group-title="数字",Newtv东北热剧
+http://[2409:8087:1a01:df::403f]/wh7f454c46tw1752920604_-1351462941/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1612006058&from=1&hms_devid=704&vqe=3
+#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字",全纪实
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/BesTV-4K.png" group-title="数字",BesTV电影4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV4K
+http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",4K峨眉超高清电影
+http://shichang-live.gstzx.10.vs.rxip.sc96655.com/live/emdy4k_8000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV高清院线
+http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",IPTV古装剧场
+http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/%E7%88%B1%E4%B8%8A4K.png" group-title="数字",爱上4K
+http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/4K%E8%8A%B1%E5%9B%AD.png" group-title="数字",4K花园
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/都市剧场.png" group-title="数字",都市剧场
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",动漫秀场
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电影
+http://124.232.231.246:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南电视剧
+http://124.232.231.246:6610/000000001001/201500000236/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南都市
+#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方",东方影视
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北影视剧
+http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃少儿
+http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",甘肃文化影视
+http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
